@@ -1,1 +1,1 @@
-# learn_3rd_cer
+I am editing the README file. Adding some more details about the project description.
